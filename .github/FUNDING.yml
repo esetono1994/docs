@@ -1,0 +1,17 @@
+git branch -m main <BRANCH>
+git fetch origin
+git branch -u origin/<BRANCH> <BRANCH>
+git remote set-head origin -a# These are supported funding model platforms
+
+github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [mrchinguo1313@gmail.com, user2]
+patreon: # Replace with a single Patreon username
+open_collective: # Replace with a single Open Collective username [mrchinguo1313@gmail.com]
+ko_fi: # Replace with a single Ko-fi username  <mrchinguo1313@gmail.com>
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel<cashapp prize rewards.com>
+community_bridge: #$ono1995 cloud-foundry
+liberapay: #$ono1995 
+issuehunt: # $ono1995 
+lfx_crowdfunding: # LFX Crowdfunding project-esetono1994 cloud-foundry
+polar: # $ono1995 
+buy_me_a_coffee: $ono1995 
+custom: # Replace with up to 4 custom sponsorship URLs e.g., ['https://us-newcash1000/#/?reqid=2317602353&oid=31708&a=3039&cid=588914&s1=D6ZJJ4&first_name=&last_name=&email_address=&phone_cell=&date_of_birth=&gender=&zip_code=&address=, 'https://www.paypal.com/invoice/p/#AB3DLWJG7ZHRWDMY']
