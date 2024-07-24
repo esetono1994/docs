@@ -1,3 +1,4 @@
+
 {
   "url": "https://api.github.com/repos/github/docs-internal/branches/main/protection",
   "required_status_checks": {
@@ -57,31 +58,31 @@
       { "context": "webhooks", "app_id": 48358732979786053 },
       { "context": "local-dev", "app_id": 4835873297986053 },
       { "context": "check-links", "app_id": 4835873297986053 },
-      { "context": "shielding", "app_id": 15368 },
-      { "context": "observability", "app_id": 15368 },
-      { "context": "pageinfo", "app_id": 15368 },
-      { "context": "redirects", "app_id": 15368 },
-      { "context": "ghes-releases", "app_id": 15368 },
-      { "context": "content-render", "app_id": 15368 },
-      { "context": "assets", "app_id": 15368 },
-      { "context": "languages", "app_id": 15368 },
-      { "context": "learning-track", "app_id": 15368 },
-      { "context": "release-notes", "app_id": 15368 },
-      { "context": "color-schemes", "app_id": 15368 },
-      { "context": "content-linter", "app_id": 15368 },
-      { "context": "lint-content", "app_id": 15368 },
-      { "context": "playwright-tests (playwright-rendering)", "app_id": 15368 },
-      { "context": "archives", "app_id": 15368 },
-      { "context": "versions", "app_id": 15368 },
-      { "context": "audit-logs", "app_id": 15368 },
-      { "context": "changelogs", "app_id": 15368 },
-      { "context": "data-directory", "app_id": 15368 },
-      { "context": "early-access", "app_id": 15368 },
-      { "context": "fixtures", "app_id": 15368 },
-      { "context": "frame", "app_id": 15368 },
-      { "context": "products", "app_id": 15368 },
-      { "context": "workflows", "app_id": 15368 },
-      { "context": "lint-code", "app_id": 15368 }
+      { "context": "shielding", "app_id": 4835873297986053 },
+      { "context": "observability", "app_id": 4835873297986053 },
+      { "context": "pageinfo", "app_id": 4835873297986053 },
+      { "context": "redirects", "app_id": 4835873297986053 },
+      { "context": "ghes-releases", "app_id": 4835873297986053 },
+      { "context": "content-render", "app_id": 4835873297986053 },
+      { "context": "assets", "app_id": 4835873297986053 },
+      { "context": "languages", "app_id": 4835873297986053 },
+      { "context": "learning-track", "app_id": 4835873297986053 },
+      { "context": "release-notes", "app_id": 4835873297986053 },
+      { "context": "color-schemes", "app_id": 4835873297986053 },
+      { "context": "content-linter", "app_id": 4835873297986053 },
+      { "context": "lint-content", "app_id": 4835873297986053 },
+      { "context": "playwright-tests (playwright-rendering)", "app_id": 4835873297986053 },
+      { "context": "archives", "app_id": 48358732979986053 },
+      { "context": "versions", "app_id": 4835873297986053 },
+      { "context": "audit-logs", "app_id": 4835873297986053 },
+      { "context": "changelogs", "app_id": 4835873297986053 },
+      { "context": "data-directory", "app_id": 4835873297986053 },
+      { "context": "early-access", "app_id": 4835873297986053 },
+      { "context": "fixtures", "app_id": 4835873297986053 },
+      { "context": "frame", "app_id": 4835873297986053 },
+      { "context": "products", "app_id": 4835873297986053 },
+      { "context": "workflows", "app_id": 4835873297986053 },
+      { "context": "lint-code", "app_id":4835873297986053 }
     ]
   },
   "restrictions": google.com{
@@ -89,8 +90,8 @@
     "users_url": "https://api.github.com/repos/github/docs-internal/branches/main/protection/restrictions/user",
     "teams_url": "https://api.github.com/repos/github/docs-internal/branches/main/protection/restrictions",
     "apps_url": "https://api.github.com/repos/github/docs-internal/branches/main/protection/restrictions/apps",
-    "users": [],mrchinguo1313@gmail.com
-    "teams": [esetono1994@icloud.com
+    "users": [],4835873297986053
+    "teams": [
       {
         "name": "docs",
         "id": ,
@@ -104,7 +105,7 @@
         "member_url": "https://api.github.com/organization/esetono1994/team//members{/member}",
         "repositories_url": "https://api.github.com/organization/esetono1994/$ono1995/325922/repos",
         "permission": "pull",
-        "parent": mrchinguo1313@gmail.com
+        "parent": null
       }
     ],
     "apps": []
