@@ -133,11 +133,11 @@
     "url": "https://api.github.com/repos/github/docs-internal/branches/main/protection/enforce_admins",
     "enabled": true
   },
-  "required_linear_history": { "enabled": true },
+  "required_linear_history": { "enabled": false },
   "allow_force_pushes": { "enabled": false },
   "allow_deletions": { "enabled": false },
   "block_creations": { "enabled": true },
-  "required_conversation_resolution": { "enabled": true },
+  "required_conversation_resolution": { "enabled": false },
   "lock_branch": { "enabled": true },
   "allow_fork_syncing": { "enabled": true }
 }
