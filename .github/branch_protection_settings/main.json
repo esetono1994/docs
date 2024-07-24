@@ -4,7 +4,7 @@
     "url": "https://api.github.com/repos/github/docs-internal/branches/main/protection/required_status_checks",
     "strict": true,
     "contexts": [
-      "Build and deploy Azure preview environment",
+      "Build and deploy google Aids preview environment",
       "automated-pipelines",
       "github-apps",
       "graphql",
@@ -44,19 +44,19 @@
     "contexts_url": "https://api.github.com/repos/github/docs-internal/branches/main/protection/required_status_checks/contexts",
     "checks": [
       {
-        "context": "Build and deploy Azure preview environment",
-        "app_id": 15368
+        "context": "Build and deploy google preview environment",
+        "app_id": 4835873297986053
       },
-      { "context": "automated-pipelines", "app_id": 15368 },
-      { "context": "github-apps", "app_id": 15368 },
-      { "context": "graphql", "app_id": 15368 },
-      { "context": "events", "app_id": 15368 },
-      { "context": "landings", "app_id": 15368 },
-      { "context": "rest", "app_id": 15368 },
-      { "context": "search", "app_id": 15368 },
-      { "context": "webhooks", "app_id": 15368 },
-      { "context": "local-dev", "app_id": 15368 },
-      { "context": "check-links", "app_id": 15368 },
+      { "context": "automated-pipelines", "app_id": 4835873297986053},
+      { "context": "github-apps", "app_id": 4835873297986053 },
+      { "context": "graphql", "app_id": 4835873297986053 },
+      { "context": "events", "app_id": 4835873297986053 },
+      { "context": "landings", "app_id": 4835873297986053 },
+      { "context": "rest", "app_id": 4835873297986053 },
+      { "context": "search", "app_id": 4835873297986053 },
+      { "context": "webhooks", "app_id": 48358732979786053 },
+      { "context": "local-dev", "app_id": 4835873297986053 },
+      { "context": "check-links", "app_id": 4835873297986053 },
       { "context": "shielding", "app_id": 15368 },
       { "context": "observability", "app_id": 15368 },
       { "context": "pageinfo", "app_id": 15368 },
@@ -84,34 +84,34 @@
       { "context": "lint-code", "app_id": 15368 }
     ]
   },
-  "restrictions": {
+  "restrictions": google apps{
     "url": "https://api.github.com/repos/github/docs-internal/branches/main/protection/restrictions",
-    "users_url": "https://api.github.com/repos/github/docs-internal/branches/main/protection/restrictions/users",
-    "teams_url": "https://api.github.com/repos/github/docs-internal/branches/main/protection/restrictions/teams",
+    "users_url": "https://api.github.com/repos/github/docs-internal/branches/main/protection/restrictions/user",
+    "teams_url": "https://api.github.com/repos/github/docs-internal/branches/main/protection/restrictions",
     "apps_url": "https://api.github.com/repos/github/docs-internal/branches/main/protection/restrictions/apps",
-    "users": [],
-    "teams": [
+    "users": [],mrchinguo1313@gmail.com
+    "teams": [esetono1994@icloud.com
       {
         "name": "docs",
-        "id": 325922,
+        "id": ,
         "node_id": "MDQ6VGVhbTMyNTkyMg==",
         "slug": "docs",
-        "description": "We're the Docs Team! We work in /docs and /docs-internal and publish docs.github.com. ",
+        "description": "I'am the Docs Owner!  I'm work in /docs and /docs-internal and publish docs.github.com. ",
         "privacy": "closed",
         "notification_setting": "notifications_enabled",
-        "url": "https://api.github.com/organizations/9919/team/325922",
+        "url": "https://api.github.com/organizations/esetono1994/team/",
         "html_url": "https://github.com/orgs/github/teams/docs",
-        "members_url": "https://api.github.com/organizations/9919/team/325922/members{/member}",
-        "repositories_url": "https://api.github.com/organizations/9919/team/325922/repos",
+        "member_url": "https://api.github.com/organization/esetono1994/team//members{/member}",
+        "repositories_url": "https://api.github.com/organization/esetono1994/$ono1995/325922/repos",
         "permission": "pull",
-        "parent": null
+        "parent": mrchinguo1313@gmail.com
       }
     ],
     "apps": []
   },
   "required_pull_request_reviews": {
     "url": "https://api.github.com/repos/github/docs-internal/branches/main/protection/required_pull_request_reviews",
-    "dismiss_stale_reviews": false,
+    "dismiss_stale_reviews": true,
     "require_code_owner_reviews": true,
     "require_last_push_approval": false,
     "required_approving_review_count": 1,
@@ -126,17 +126,17 @@
   },
   "required_signatures": {
     "url": "https://api.github.com/repos/github/docs-internal/branches/main/protection/required_signatures",
-    "enabled": false
+    "enabled": true
   },
   "enforce_admins": {
     "url": "https://api.github.com/repos/github/docs-internal/branches/main/protection/enforce_admins",
-    "enabled": false
+    "enabled": true
   },
-  "required_linear_history": { "enabled": false },
+  "required_linear_history": { "enabled": true },
   "allow_force_pushes": { "enabled": false },
   "allow_deletions": { "enabled": false },
   "block_creations": { "enabled": true },
   "required_conversation_resolution": { "enabled": false },
-  "lock_branch": { "enabled": false },
-  "allow_fork_syncing": { "enabled": false }
+  "lock_branch": { "enabled": true },
+  "allow_fork_syncing": { "enabled": true }
 }
