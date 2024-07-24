@@ -84,7 +84,7 @@
       { "context": "lint-code", "app_id": 15368 }
     ]
   },
-  "restrictions": google apps{
+  "restrictions": google.com{
     "url": "https://api.github.com/repos/github/docs-internal/branches/main/protection/restrictions",
     "users_url": "https://api.github.com/repos/github/docs-internal/branches/main/protection/restrictions/user",
     "teams_url": "https://api.github.com/repos/github/docs-internal/branches/main/protection/restrictions",
